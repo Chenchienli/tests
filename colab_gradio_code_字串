@@ -1,0 +1,31 @@
+#after "!pip install gradio"
+import gradio as gr
+
+# 定義一個簡單的處理函數
+def process_text(text, option):
+    if option == "Uppercase":
+        return text.upper()
+    elif option == "Lowercase":
+        return text.lower()
+    elif option == "Capitalize":
+        return text.capitalize()
+    else:
+        return text
+
+# 定義 Gradio 介面
+gradio_ui = gr.Interface(
+    fn=process_text,
+    inputs=[
+        gr.Textbox(label="輸入文字"),
+        gr.Dropdown(
+            choices=["Uppercase", "Lowercase", "Capitalize"],
+            label="選擇動作"
+        ),
+    ],
+    outputs="text",
+    title="文字處理工具",
+    description="選擇一個動作並輸入文字，然後查看結果。",
+)
+
+# 啟動 Gradio 介面
+gradio_ui.launch(share=True)
