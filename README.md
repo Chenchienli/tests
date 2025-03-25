@@ -5,7 +5,8 @@
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 ## 範例
-- https://google.com/
+- all web
+- https://www.google.com/collections/s/list/nbQlRldpTHyzH-r6vlfwGQ/uyYPCbvezPs
 - 113.1作業系統期末專題
 - https://docs.google.com/spreadsheets/d/1JBkDh7BvSefiV28oc9nqVfcRBp5Nf0EK/edit?usp=sharing&ouid=106463589638694621063&rtpof=true&sd=true
 - 112.1作業系統原理_期末專題
