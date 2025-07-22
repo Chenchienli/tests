@@ -7,6 +7,8 @@
 ## 範例
 - all web
 - https://www.google.com/collections/s/list/nbQlRldpTHyzH-r6vlfwGQ/uyYPCbvezPs
+- initial website
+- https://www.google.com/collections/s/list/G0LpcSfwQFOrYybIrb0Y2w/T9dn4i3mUH0
 - 113.1作業系統期末專題
 - https://docs.google.com/spreadsheets/d/1JBkDh7BvSefiV28oc9nqVfcRBp5Nf0EK/edit?usp=sharing&ouid=106463589638694621063&rtpof=true&sd=true
 - 112.1作業系統原理_期末專題
