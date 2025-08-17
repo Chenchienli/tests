@@ -6,7 +6,7 @@
 - all web
 - https://www.google.com/collections/s/list/nbQlRldpTHyzH-r6vlfwGQ/uyYPCbvezPs
 - initial website
-- https://www.google.com/collections/s/list/G0LpcSfwQFOrYybIrb0Y2w/T9dn4i3mUH0
+- https://docs.google.com/spreadsheets/d/151Lltn_4zU89ZcA7TmRf_9VMDdx4XWwlyc_Cf95HrgE/edit?usp=sharing
 ## 專題集
 ## 安裝方法
 1. 克隆此儲存庫：
